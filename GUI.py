@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 from tkinter import scrolledtext
 from tkinter import Menu
-import numpy as np
+import numpy as np2
 
 def ClickMe(name):
     B1.configure(text='Ihave been clicked    '+name.get())
